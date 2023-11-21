@@ -1,0 +1,12 @@
+
+
+init stage origin
+
+Om Prakash git command
+
+git init
+git status
+
+
+git add
+
